@@ -21,6 +21,7 @@
 		8F479CE428DE332700321FAC /* StockWatch-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StockWatch-Bridging-Header.h"; sourceTree = "<group>"; };
 		8F479CE528DE332700321FAC /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = ../../../Desktop/AppDelegate.swift; sourceTree = "<group>"; };
 		8F479CE728DE332E00321FAC /* StockWatchApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StockWatchApp.swift; path = ../../../Desktop/StockWatchApp.swift; sourceTree = "<group>"; };
+		8F479CE928DE342600321FAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +54,7 @@
 		8F479CCE28DE31CD00321FAC /* StockWatch */ = {
 			isa = PBXGroup;
 			children = (
+				8F479CE928DE342600321FAC /* Info.plist */,
 				8F479CE728DE332E00321FAC /* StockWatchApp.swift */,
 				8F479CE528DE332700321FAC /* AppDelegate.swift */,
 				8F479CD328DE31CF00321FAC /* Assets.xcassets */,
@@ -276,6 +278,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"StockWatch/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = StockWatch/Info.plist;
 				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -305,6 +308,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"StockWatch/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = StockWatch/Info.plist;
 				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
