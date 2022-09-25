@@ -19,8 +19,8 @@
 		8F479CD628DE31CF00321FAC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8F479CD828DE31CF00321FAC /* StockWatch.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = StockWatch.entitlements; sourceTree = "<group>"; };
 		8F479CE428DE332700321FAC /* StockWatch-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StockWatch-Bridging-Header.h"; sourceTree = "<group>"; };
-		8F479CE528DE332700321FAC /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = ../../../Desktop/AppDelegate.swift; sourceTree = "<group>"; };
-		8F479CE728DE332E00321FAC /* StockWatchApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StockWatchApp.swift; path = ../../../Desktop/StockWatchApp.swift; sourceTree = "<group>"; };
+		8F479CE528DE332700321FAC /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8F479CE728DE332E00321FAC /* StockWatchApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StockWatchApp.swift; sourceTree = "<group>"; };
 		8F479CE928DE342600321FAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
